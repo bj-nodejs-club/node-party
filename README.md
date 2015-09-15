@@ -44,5 +44,9 @@ https://github.com/bj-nodejs-club/node-party/blob/master/4rd/nodejs-based-im.pdf
 Node.js的效率和稳定性一直受到大家的关注，尤其是在超高并发的情况下，这次我们尝试了解Node.js搭建大型IM即时通讯系统背后的“故事”，以及如何架构可拓展高可用性的即时通讯系统。
 ```
 
+# About Us
+
+![img2](https://github.com/bj-nodejs-club/node-party/blob/master/poster.png)
+
 
 
