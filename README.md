@@ -30,9 +30,9 @@ Live demo: http://console-stg.austack.com/
 
 https://github.com/bj-nodejs-club/node-party/blob/master/4rd/web-developers-learning-from-app-development.pdf
 
-```
-近些年来，Hy‎brid App逐渐流行一种快速的应用开发路径。主讲人拥有多年Web开发经验，但他将在本次活动中为大家分享自己最近一年App开发中遇到的故事和经验。
-```
+
+>  近些年来，Hy‎brid App逐渐流行一种快速的应用开发路径。主讲人拥有多年Web开发经验，但他将在本次活动中为大家分享自己最近一年App开发中遇到的故事和经验。
+
 
 > Steve is currently starting up a company providing home intelligence experience to end users through state-of-the-art technology. Before starting his company, Steve has worked with Shantou University and Li Ka Shing Foundation with focus on establishing new e-Learning system in Shantou. As part of his role, he has also worked with various start-up companies from the US and the UK to co-develop the latest technology. Steve has received B.S. degree in Materials Chemistry from Peking University in 2012. During undergraduate years, he took a major role in numerous research projects, including one on mass-production of zirconia nanocrystals.
 
@@ -40,9 +40,9 @@ https://github.com/bj-nodejs-club/node-party/blob/master/4rd/web-developers-lear
 
 https://github.com/bj-nodejs-club/node-party/blob/master/4rd/nodejs-based-im.pdf
 
-```
-Node.js的效率和稳定性一直受到大家的关注，尤其是在超高并发的情况下，这次我们尝试了解Node.js搭建大型IM即时通讯系统背后的“故事”，以及如何架构可拓展高可用性的即时通讯系统。
-```
+
+> Node.js的效率和稳定性一直受到大家的关注，尤其是在超高并发的情况下，这次我们尝试了解Node.js搭建大型IM即时通讯系统背后的“故事”，以及如何架构可拓展高可用性的即时通讯系统。
+
 
 # About Us
 
