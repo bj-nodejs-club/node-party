@@ -1,18 +1,19 @@
-# Slides for BJ NodeJS Party
+# BJ NodeJS Party 照片，Slides
 
 
-## [1st @ 丁盯](https://github.com/bj-nodejs-club/node-party/tree/master/1st)
+## [1st @ 丁盯](http://git.oschina.net/ubiware/node-party/tree/master/1st)
 
-## [2nd @ geek-lab](https://github.com/bj-nodejs-club/node-party/tree/master/2nd)
+## [2nd @ geek-lab](http://git.oschina.net/ubiware/node-party/tree/master/2nd)
 
-## [3rd @ 科技寺](https://github.com/bj-nodejs-club/node-party/tree/master/3rd)
+## [3rd @ 北新桥 科技寺](http://git.oschina.net/ubiware/node-party/tree/master/3rd)
 
-## [4rd @ 氪空间](https://github.com/bj-nodejs-club/node-party/tree/master/4rd)
+## [4th @ 氪空间](http://git.oschina.net/ubiware/node-party/tree/master/4th)
 
+## [5th @ 三里屯 科技寺](http://git.oschina.net/ubiware/node-party/tree/master/5th)
 
-# About Us
+# 关于我们
 
-![img2](https://github.com/bj-nodejs-club/node-party/blob/master/poster.png)
+![img2](http://7xkeqi.com1.z0.glb.clouddn.com/poster.png)
 
 
 
