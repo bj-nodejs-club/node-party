@@ -1,2 +1,7 @@
 .qrsignore
+sms-broadcast/8th-shimaotianjie.json
+*sublime-*
+*.swp
+data.xlsx
+node_modules
 qiniu.json
