@@ -1,0 +1,6 @@
+{
+    "name": "music-player",
+    "version": "0.1.0",
+    "displayName": "Music Player",
+    "main": "3d.js"
+}

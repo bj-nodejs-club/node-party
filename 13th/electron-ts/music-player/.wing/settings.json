@@ -1,0 +1,12 @@
+// 使用当前设置覆盖默认和用户设置.
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.DS_Store": true,
+        "node_modules":true ,
+        "**/*.js": { "when": "$(basename).ts"},
+        "**/*.map": { "when": "$(basename)"}
+    },
+    "tslint.enable": false
+}
