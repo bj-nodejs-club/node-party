@@ -60,7 +60,18 @@ https://github.com/NodeJS-Live-China/speakers_slides
 
 ## 13th
 * Vue的组件化与单页应用 － 崔迪@新新农人
+[视频](http://v.qq.com/x/page/v0312d6aj66.html)
+
 * electron and type script - 张晨@白露时代
+[视频](http://v.qq.com/x/page/q0312c7tc4d.html)
+
+
+## 14th
+* Koa-基于Node.js的Web开发框架－ Berwin@奇舞团
+[视频](http://v.qq.com/x/page/r03189i79bj.html)
+
+* 人工智能和聊天机器人 - hain@Rockq
+
 
 # About us
 
