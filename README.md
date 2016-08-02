@@ -1,4 +1,5 @@
 # BJ NodeJS Party Slides & Pictures
+![](https://github.com/rockq-org/node-party/blob/master/Logo-HD.jpg)
 
 We are a bunch of people who love NodeJS and hold meetups parties in Beijing monthly since May 2015.
 This repo is a collection of the slides and pictures.
