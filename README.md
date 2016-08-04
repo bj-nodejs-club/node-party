@@ -4,7 +4,7 @@ This repo is a collection of the slides and pictures.
 
 ## About us
 
-![img2](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/poster-20160616/poster_M.png)
+![img2](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/poster-20160616/poster_L.png)
 
 # Activities
 
