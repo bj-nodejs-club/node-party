@@ -3,7 +3,7 @@ We are a bunch of people who love NodeJS and hold meetups parties in Beijing mon
 This repo is a collection of the slides and pictures.
 
 ```
-git clone git@github.com:rockq-org/node-party.git
+git clone git@git.oschina.net:rockq/node-party.git 
 ```
 
 ## About us
