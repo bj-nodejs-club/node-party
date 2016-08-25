@@ -12,6 +12,13 @@ git clone git@github.com:rockq-org/node-party.git
 
 # Activities
 
+## [15th 2016/08/21 @TechTemple](https://cnodejs.org/topic/57ab1ec5ba44d08f4c1ce01d)
+![](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/15th/5.pic.jpg)
+* AMP-API管理平台 - 骆也 美信/前端研发部
+
+* Threejs从入门到不放弃 - 苏博 汽车之家
+
+
 ## [14th 2016/07/23 @TechTemple](https://cnodejs.org/topic/578895a249e4faa95429c7c9)
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/14th/8.pic.jpg)
 * Koa-基于Node.js的Web开发框架－ Berwin@奇舞团
