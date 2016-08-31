@@ -12,12 +12,15 @@ git clone git@git.oschina.net:rockq/node-party.git
 
 # Activities
 
-## [15th 2016/08/21 @TechTemple](https://cnodejs.org/topic/57ab1ec5ba44d08f4c1ce01d)
+## [15th 2016/08/21 @TechTemple](https://cnodejs.org/topic/57ba84be6b04813133ba904f)
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/15th/5.pic.jpg)
 * AMP-API管理平台 - 骆也 美信/前端研发部
+[视频](http://v.qq.com/x/page/b0325dm660r.html)
+[ppt](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/15th/AMP_luoye.pdf)
 
 * Threejs从入门到不放弃 - 苏博 汽车之家
-
+[视频](http://v.qq.com/x/page/v0324xluoit.html)
+[ppt](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/15th/threejs_subo.pptx)
 
 ## [14th 2016/07/23 @TechTemple](https://cnodejs.org/topic/578895a249e4faa95429c7c9)
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/14th/8.pic.jpg)
