@@ -12,6 +12,15 @@ git clone git@git.oschina.net:rockq/node-party.git
 
 # Activities
 
+## [16th 2016/09/25@极客咖啡](https://cnodejs.org/topic/57de1b15b11d78e3659db5b0)
+![](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/16th/pics/IMG_8914.JPG)
+* Angular_2_归来记 - 雪狼 
+[ppt](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/16th/Angular_2_归来记.pdf)
+* 基于FLUX架构的项目开发 - 悠鹤 
+[ppt](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/16th/基于FLUX架构的项目开发.pdf)
+* 如何做好技术分享 - 杨疯疯
+[ppt](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/16th/如何做好技术分享.pdf)
+
 ## [15th 2016/08/21 @TechTemple](https://cnodejs.org/topic/57ba84be6b04813133ba904f)
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/15th/5.pic.jpg)
 * AMP-API管理平台 - 骆也 美信/前端研发部
