@@ -105,5 +105,3 @@ https://github.com/NodeJS-Live-China/speakers_slides
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/1st/10.pic.jpg)
 * Delivery service via wechat - hain@arrking
 * 开发人员的技术债 - 王骕@Baidu
-
-
