@@ -12,14 +12,19 @@ git clone git@git.oschina.net:rockq/node-party.git
 
 # Activities
 
-## [16th 2016/09/25@极客咖啡](https://cnodejs.org/topic/57de1b15b11d78e3659db5b0)
+## [16th 2016/09/25@极客咖啡](https://cnodejs.org/topic/57e8dca7a61dacb35502be75)
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/16th/pics/IMG_8914.JPG)
 * Angular_2_归来记 - 雪狼 
 [ppt](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/16th/Angular_2_归来记.pdf)
+[视频](http://v.qq.com/x/page/i0332fx7vb0.html)
+
 * 基于FLUX架构的项目开发 - 悠鹤 
 [ppt](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/16th/基于FLUX架构的项目开发.pdf)
+[视频](http://v.qq.com/x/page/y0332f34tbb.html)
+
 * 如何做好技术分享 - 杨疯疯
 [ppt](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/16th/如何做好技术分享.pdf)
+[视频](http://v.qq.com/x/page/y0332mybf1d.html)
 
 ## [15th 2016/08/21 @TechTemple](https://cnodejs.org/topic/57ba84be6b04813133ba904f)
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/15th/5.pic.jpg)
