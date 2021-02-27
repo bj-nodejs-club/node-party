@@ -9,8 +9,9 @@ This repo is a collection of the slides and pictures.
 <!-- ![img2](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/poster/poster-20160616/poster_L.png) -->
 
 Video: 
-    - [bilibili](https://www.bilibili.com/video/BV1gp4y1H7hh)
-    - [YouTube](https://www.youtube.com/watch?v=mYFK6jSWBsc)
+     - [YouTube](https://www.youtube.com/watch?v=mYFK6jSWBsc)
+     - [bilibili](https://www.bilibili.com/video/BV1gp4y1H7hh)
+
 
 
 ```
