@@ -2,6 +2,7 @@
 We are a bunch of people who love NodeJS and hold meetups parties in Beijing monthly since May 2015.
 This repo is a collection of the slides and pictures.
 
+![image](https://user-images.githubusercontent.com/3538629/109372454-9c97c200-78e4-11eb-8d7e-c5901a30fbd3.png)
 
 欢聚，创新！开发者社区 Node Party Jun.6 2015 - Jan. 26 2017 活动精彩瞬间 | BJ NodeJS Club
 
