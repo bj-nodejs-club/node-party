@@ -10,6 +10,8 @@ git clone git@git.oschina.net:rockq/node-party.git
 
 ![img2](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/poster/poster-20160616/poster_L.png)
 
+Video: [https://www.bilibili.com/video/BV1gp4y1H7hh](https://www.bilibili.com/video/BV1gp4y1H7hh)
+
 # Activities
 
 ## [16th 2016/09/25@极客咖啡](https://cnodejs.org/topic/57e8dca7a61dacb35502be75)
