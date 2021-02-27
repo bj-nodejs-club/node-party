@@ -2,13 +2,17 @@
 We are a bunch of people who love NodeJS and hold meetups parties in Beijing monthly since May 2015.
 This repo is a collection of the slides and pictures.
 
-```
-git clone git@git.oschina.net:chatopera/node-party.git 
-```
+
+欢聚，创新！开发者社区 Node Party Jun.6 2015 - Jan. 26 2017 活动精彩瞬间 | BJ NodeJS Club
 
 <!-- ![img2](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/poster/poster-20160616/poster_L.png) -->
 
 Video: [https://www.bilibili.com/video/BV1gp4y1H7hh](https://www.bilibili.com/video/BV1gp4y1H7hh)
+
+
+```
+git clone git@git.oschina.net:chatopera/node-party.git 
+```
 
 # Activities
 
