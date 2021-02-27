@@ -10,8 +10,8 @@ This repo is a collection of the slides and pictures.
 
 Video: 
 
-     - [YouTube](https://www.youtube.com/watch?v=mYFK6jSWBsc)
-     - [bilibili](https://www.bilibili.com/video/BV1gp4y1H7hh)
+- [YouTube](https://www.youtube.com/watch?v=mYFK6jSWBsc)
+- [bilibili](https://www.bilibili.com/video/BV1gp4y1H7hh)
 
 
 
