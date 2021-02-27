@@ -4,19 +4,16 @@ This repo is a collection of the slides and pictures.
 
 ![image](https://user-images.githubusercontent.com/3538629/109372454-9c97c200-78e4-11eb-8d7e-c5901a30fbd3.png)
 
-欢聚，创新！开发者社区 Node Party Jun.6 2015 - Jan. 26 2017 活动精彩瞬间 | BJ NodeJS Club
-
 <!-- ![img2](http://7xkeqi.com1.z0.glb.clouddn.com/nodeparty/poster/poster-20160616/poster_L.png) -->
 
-Video: 
+Video:  欢聚，创新！开发者社区 Node Party Jun.6 2015 - Jan. 26 2017 活动精彩瞬间 | BJ NodeJS Club
 
 - [YouTube](https://www.youtube.com/watch?v=mYFK6jSWBsc)
 - [bilibili](https://www.bilibili.com/video/BV1gp4y1H7hh)
 
 
-
 ```
-git clone git@git.oschina.net:chatopera/node-party.git 
+git clone https://github.com/chatopera/node-party.git
 ```
 
 # Activities
